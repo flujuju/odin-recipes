@@ -1,0 +1,33 @@
+h1.homepage {
+    background-color: coral;
+    color: blue;
+    }
+
+ul.homepage {
+    font-size: 24px;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Brush Script MT','Lucida Console' sans-serif;
+    font-size: 48px;
+    text-align: center;
+
+}
+
+img {
+    width : 400px;
+    height : auto
+}
+
+ol {
+    font-style: italic;
+}
+
+a {
+    color: blue;
+    font-size: 36px;
+}
